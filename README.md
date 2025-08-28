@@ -13,7 +13,7 @@ A Jupyter Notebook environment
 Installation
 You can install this package directly from GitHub using pip:
 
-pip install git+https://github.com/your-username/POSCaR_visualizer_project-.git
+pip install git+https://github.com/SohamSavarkar/POSCaR_visualizer_project-.git
 
 
 (Remember to replace your-username/poscar-visualizer-project with the actual URL of your repository.)
